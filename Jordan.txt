@@ -1,0 +1,38 @@
+
+
+            <a href='index.php' class='link_exe'>Voltar</a> 
+
+            <aside>
+                <h1> Jordan Thales Rosa Silva </h1><br> 
+                <p>21 anos </p> <br> 
+                <h2>Objetivo Profissional: </h2> <p>Estágio em Desenvolvimento Web</p> <br> 
+                <h2>Perfil Pessoal: </h2> <br>
+                <p>Facilidade em comunicação, fácil aprendizado.
+Procuro uma oportunidade de adquirir conhecimento e realizar um bom trabalho em minha função.</p> <br> 
+                <h2>HardSkills: </h2>
+                <p>Inglês Intermediário; <br>
+Pacote Office Básico;<br>
+Photoshop Básico;<br>
+PHP Básico;<br>
+C++ Básico.</p><br> 
+                <h2>Telefone: </h2> <p>(11) 9 9169-1083</p> <br> 
+                <h2>E-mail: </h2><p>jordan.thalles.1@gmail.com</p> <br>
+            </aside>
+            <section>
+                <h2>Formação acadêmica: </h2> <br>
+                <h3>Instituição: </h3><p>Universidade Braz Cubas</p><br> 
+                <h3>Curso: </h3><p>Análise e Desenvolvimento de sistemas</p><br> 
+                <strong>Data início:</strong>
+                <p>2021-06-01</p>
+                <strong>Data conclusão:</strong> <p>2023-06-01</p><br> 
+                <h2>Experiência: </h2><p>Desenvolvimento de um projeto Quiz em C++, onde é possível criar cadastro do jogador, excluir e exibir dados com arquivos txt. </p> <br> 
+                <h2>SoftSkills: </h2> <p>Pontual;
+                Organização;
+                Aprendizado Rápido;
+                Pensamento Criativo.</p> <br> 
+                <h2>Linkedin: </h2> <p>https://www.linkedin.com/in/jordan-thales-23ba5a204/</p><br>
+                <h2>Github: </h2><p>https://github.com/Jordan-Thales</p><br>
+                
+            </section>
+            
+        

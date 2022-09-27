@@ -1,0 +1,30 @@
+
+
+            <a href='index.php' class='link_exe'>Voltar</a> 
+
+            <aside>
+                <h1>   </h1><br> 
+                <p> anos </p> <br> 
+                <h2>Objetivo Profissional: </h2> <p></p> <br> 
+                <h2>Perfil Pessoal: </h2> <br>
+                <p></p> <br> 
+                <h2>HardSkills: </h2>
+                <p></p><br> 
+                <h2>Telefone: </h2> <p></p> <br> 
+                <h2>E-mail: </h2><p></p> <br>
+            </aside>
+            <section>
+                <h2>Formação acadêmica: </h2> <br>
+                <h3>Instituição: </h3><p></p><br> 
+                <h3>Curso: </h3><p></p><br> 
+                <strong>Data início:</strong>
+                <p></p>
+                <strong>Data conclusão:</strong> <p></p><br> 
+                <h2>Experiência: </h2><p></p> <br> 
+                <h2>SoftSkills: </h2> <p></p> <br> 
+                <h2>Linkedin: </h2> <p></p><br>
+                <h2>Github: </h2><p></p><br>
+                
+            </section>
+            
+        

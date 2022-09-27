@@ -1,0 +1,30 @@
+
+
+            <a href='index.php' class='link_exe'>Voltar</a> 
+
+            <aside>
+                <h1> Thaís Correa Lemos </h1><br> 
+                <p>18 anos </p> <br> 
+                <h2>Objetivo Profissional: </h2> <p>Qualquer um que me aceite</p> <br> 
+                <h2>Perfil Pessoal: </h2> <br>
+                <p>Faço nada, preguiçosa, sem criatividade, não sou pró-ativa</p> <br> 
+                <h2>HardSkills: </h2>
+                <p>ds</p><br> 
+                <h2>Telefone: </h2> <p>11952789358</p> <br> 
+                <h2>E-mail: </h2><p>iris555.correa@yahoo.com</p> <br>
+            </aside>
+            <section>
+                <h2>Formação acadêmica: </h2> <br>
+                <h3>Instituição: </h3><p>Washington</p><br> 
+                <h3>Curso: </h3><p>Ensino médio</p><br> 
+                <strong>Data início:</strong>
+                <p>2019-02-28</p>
+                <strong>Data conclusão:</strong> <p>2021-12-28</p><br> 
+                <h2>Experiência: </h2><p>Aprendizado em nada</p> <br> 
+                <h2>SoftSkills: </h2> <p>dwsfsfs</p> <br> 
+                <h2>Linkedin: </h2> <p>https://www.linkedin.com/in/iris-correa/</p><br>
+                <h2>Github: </h2><p>https://github.com/Iris-correa</p><br>
+                
+            </section>
+            
+        

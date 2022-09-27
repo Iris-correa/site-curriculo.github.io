@@ -1,0 +1,30 @@
+
+
+            <a href='index.php' class='link_exe'>Voltar</a> 
+
+            <aside>
+                <h1> João Vitor de Oliveira </h1><br> 
+                <p>19 anos </p> <br> 
+                <h2>Objetivo Profissional: </h2> <p>Programador Web </p> <br> 
+                <h2>Perfil Pessoal: </h2> <br>
+                <p>Sou focado e dedicado, gosto de tecnologia e tenho a ambição de crescer no meio do TI.</p> <br> 
+                <h2>HardSkills: </h2>
+                <p>Básico em HTML, CSS, Java, PHP e C++.</p><br> 
+                <h2>Telefone: </h2> <p>(11) 94323-3754</p> <br> 
+                <h2>E-mail: </h2><p>ojoao242@gmail.com</p> <br>
+            </aside>
+            <section>
+                <h2>Formação acadêmica: </h2> <br>
+                <h3>Instituição: </h3><p>Universidade Braz Cubas</p><br> 
+                <h3>Curso: </h3><p>Análise e Desenvolvimento de Sistemas </p><br> 
+                <strong>Data início:</strong>
+                <p>2021-08-01</p>
+                <strong>Data conclusão:</strong> <p>2023-07-20</p><br> 
+                <h2>Experiência: </h2><p>Fiz alguns sites sobre assuntos que eu gosto usando HTML e CSS.</p> <br> 
+                <h2>SoftSkills: </h2> <p>Bem humorado, boa interação com pessoas, aprendo rápido e trabalho bem em equipe.</p> <br> 
+                <h2>Linkedin: </h2> <p>https://www.linkedin.com/in/joão-Vitor-23ba5a204/</p><br>
+                <h2>Github: </h2><p></p><br>
+                
+            </section>
+            
+        

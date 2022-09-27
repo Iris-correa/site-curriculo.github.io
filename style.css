@@ -1,0 +1,251 @@
+@charset "UTF-8";
+
+/******** import fontes externas *********/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto+Condensed:wght@300&display=swap');
+
+/******** Zerar o conteúdo da página *********/
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    scroll-behavior: smooth
+} 
+/******** Header *********/
+header {
+    background-color: #6D02A6;
+    color: #fff;
+    font-size: 25px;
+    font-family: Roboto;
+    float: right;
+    padding: 200px;
+}
+/******** Header nome da empresa *********/
+header span{
+    font-family: Lobster;
+}
+/******** Header titulo principal *********/
+#titulo-principal{
+    margin-bottom: 30px;
+    padding: 10px;
+}
+/******** Header conf das vantagens *********/
+ul{
+    list-style: none;
+    margin-bottom: 60px;
+}
+/******** Header conf da imagem *********/
+#imagem-header{
+    width: 300px;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+}
+/******** Header conf dos links *********/
+#links a{
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 0.7em;
+    text-transform: uppercase;
+    color: #6D02A6;
+    cursor: pointer;
+}
+#links a:hover{
+  background-color: #c0a4cf;
+  transition: 1s all;
+}
+/******** main conf *********/
+main{
+    clear: both;
+    width: 100%;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.89);
+}
+main  h2{
+    margin: 10px;
+    text-align: left;
+    font-family: Roboto Condensed;
+    color: #6D02A6;
+}
+/******** main conf h1 das div - cadastrar - pesquisar - deletar *********/
+.titulo{
+    margin: 10px;
+    text-align: center;
+    font-family: Roboto Condensed;
+    color: #6D02A6;
+}
+/******** main estilo das divs - cadastrar - pesquisar - deletar *********/
+#cadastrar, #pesquisar,#deletar {
+    background-color: #fff;
+    width: 950px;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius:5px;
+}
+#pesquisar,#deletar{
+    margin-top: 50px;
+}
+
+/******** main label *********/
+label{
+    color: #6D02A6;
+    font-family: Roboto Condensed;
+}
+/******** main textarea *********/
+textarea{
+    display:block;
+    position: relative;
+    left: 200px;
+    width: 50%;
+    outline: none;
+    margin-left: 60px;
+    margin: 20px;
+    padding: 20px;
+}
+
+/******** main linha de divisão *********/
+.line{
+    border-top: 1px solid black;
+}
+
+/******** main estilo input *********/
+input{
+    width: 200px;
+    padding: 15px;
+    margin: 20px;
+    outline: none;
+}
+
+/******** main estilo input dentro da div cadastrar *********/
+#dadospessoais input{
+    position: relative;
+    left: 10px;
+}
+#dadospessoais label{
+    display: block;
+}
+
+/******** main estilo input dentro da div pesquisar e deletar *********/
+#pesquisar input, #deletar input{
+    margin-left: 20px;
+    position: relative;
+    left: 20px;
+}
+/******** main estilo botao *********/
+#botao{
+    background-color: #6D02A6;
+    color: #fff;
+    font-family: Roboto Condensed;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: 1s all;
+    margin-left: 300px;
+}
+
+#cadastrar #botao{
+    width: 50%;
+}
+ #contato #botao{
+    position: relative;
+    right: 140px;
+}
+/******** main estilo botao quando passar o mouse em cima *********/
+#botao:hover{
+    background-color: #c0a4cf;
+    color: #000;
+    transform: scale(1.1);
+}
+
+/******** main estilo rodapé *********/
+
+footer img{
+    width: 200px;
+}
+footer{
+    background-color: #6D02A6;
+    text-align: center;
+}
+
+/******** Exibir curriculo *********/
+
+aside{
+    background-color: #6D02A6;
+    color: #fff;
+    font-family: Roboto Condensed;
+    position: relative;
+    left: 00px;
+    width: 250px;
+    border: 0.8px solid #000;
+    margin: 50px 0px;
+    padding: 20px;
+    height: 610px;
+    position: absolute;
+}
+section{
+    background-color: #fff;
+    color: #6D02A6;
+    font-family: Roboto Condensed;
+    position: absolute;
+    top: 49px;
+    left: 290px;
+    width: 250px;
+    border: 0.8px solid #000;
+    margin: 20px 0px;
+    padding: 20px;
+    height: 610px;
+}
+
+p{
+    text-align: justify;
+}
+/********** localizar - error ********/
+
+#titulo_localizar{
+    font-family: Roboto Condensed;
+    font-size: 2em;
+    margin: 20px;
+    padding: 20px;
+    color: #6D02A6;
+}
+
+/********* Link - error */
+
+ .link_exe {
+    background-color: #c0a4cf;
+    padding: 20px;
+    position: relative;
+    left: 630px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1em;
+    text-transform: uppercase;
+    color: #fff;
+    cursor: pointer;
+}
+.link_exe:hover{
+  background-color: #6D02A6;
+  transition: 1s all;
+}
+/********** Deletar - error ********/
+
+#titulo_deletar{
+    font-family: Roboto Condensed;
+    font-size: 2em;
+    margin: 20px;
+    padding: 20px;
+    color: #6D02A6;
+    text-align: center;
+}
+#del{
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: Roboto Condensed;
+}
